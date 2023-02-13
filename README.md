@@ -17,9 +17,9 @@ componentes del sistema:
 
 ## instalacion del sistema
 
-Para instalar el sistema necesita copiar la url del proyecto -> https://github.com/emiliopi/base-laravel-8.git.
+Para instalar el sistema necesita copiar la url del proyecto -> https://github.com/emiliopi/crud-estudiantes.
 
-- git clone https://github.com/emiliopi/base-laravel-8.git.
+- git clone https://github.com/emiliopi/crud-estudiantes.
 - cp .env.example .env
 - configurar la base de datos
 - composer install o composer install --ignore-platform-reqs
